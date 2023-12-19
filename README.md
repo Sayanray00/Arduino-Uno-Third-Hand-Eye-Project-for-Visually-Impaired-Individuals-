@@ -6,7 +6,8 @@ The Arduino Uno Third Hand-Eye Project aims to provide assistance to visually im
 
 📱 Connect with Us on Social Media:
 Stay updated with our latest developments and connect with the community through our social media platforms!  
-Facebook: [Supriyo Sarkar](https://www.facebook.com/profile.php?id=100070487584093)  
-Instagram: [supriyo016](https://www.instagram.com/supriyo016/)  
-Linkedin: [supriyo-sarkar](https://www.linkedin.com/in/supriyo-sarkar/)  
-Twitter: [Supriyo016](https://twitter.com/Supriyo016)  
+👥 Facebook: [Supriyo Sarkar](https://www.facebook.com/profile.php?id=100070487584093)  
+📸 Instagram: [supriyo016](https://www.instagram.com/supriyo016/)  
+📎 Linkedin: [supriyo-sarkar](https://www.linkedin.com/in/supriyo-sarkar/)  
+🎥 YouTube: [Supriyo Sarkar](https://www.youtube.com/@supriyo016/)  
+🐦 Twitter: [Supriyo016](https://twitter.com/Supriyo016)  
